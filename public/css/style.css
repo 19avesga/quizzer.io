@@ -1,0 +1,21 @@
+body {
+    /*background-image: url("https://slack-imgs.com/?c=1&url=https%3A%2F%2Fimg.memecdn.com%2Fback-seat-drivers_o_826108.jpg");*/
+    color: white;
+    background-color:black;
+    /*background-position:center;*/
+    text-align:center;
+    /*background-size: 500px 500px;*/
+    
+}
+
+#img1 {
+    text-align: left;
+    margin: 0;
+    padding:0;
+}
+
+#img2 {
+    text-align: right;
+    margin: 0;
+    padding:0;
+}
